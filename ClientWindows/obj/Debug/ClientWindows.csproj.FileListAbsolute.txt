@@ -1,0 +1,6 @@
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\bin\Debug\ClientWindows.exe.config
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\bin\Debug\ClientWindows.exe
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\bin\Debug\ClientWindows.pdb
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\obj\Debug\ClientWindows.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\obj\Debug\ClientWindows.exe
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientWindows\obj\Debug\ClientWindows.pdb

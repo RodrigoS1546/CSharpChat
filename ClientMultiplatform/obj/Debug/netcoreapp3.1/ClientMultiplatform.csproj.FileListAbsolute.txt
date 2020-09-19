@@ -1,0 +1,12 @@
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.exe
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.deps.json
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.runtimeconfig.json
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.runtimeconfig.dev.json
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.dll
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\bin\Debug\netcoreapp3.1\ClientMultiplatform.pdb
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.AssemblyInfo.cs
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.dll
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.pdb
+C:\Users\Rodrigo Santos\source\repos\Chat\ClientMultiplatform\obj\Debug\netcoreapp3.1\ClientMultiplatform.genruntimeconfig.cache
